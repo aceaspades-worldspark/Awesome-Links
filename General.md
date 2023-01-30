@@ -2,6 +2,12 @@
 
 - Patterns.dev | Programming design patterns, through the lens of JavaScript | https://patterns.dev
 
+# Awesome Tools for Web Devs
+
+- Can I Use? | Check browser support for most web features | https://caniuse.com/
+
+- Social Sizes | Sizes for popular social media banners, images, etc. | https://socialsizes.io
+
 # Utilities / Tools
 - HomeRow | One of the coolest UI navigation tools around for MacOS | https://www.homerow.app
 
@@ -18,8 +24,6 @@
 - OneLook - Dictionary and Thesaurus | https://onelook.com/
 
 - DiceBear Avatars | Avatar Generator API with lots of styles | https://avatars.dicebear.com
-
-- Social Sizes | Sizes for popular social media banners, images, etc. | https://socialsizes.io
 
 - Standard Resume | Resume Builder for the 21st Century | https://standardresume.co/tech
 
